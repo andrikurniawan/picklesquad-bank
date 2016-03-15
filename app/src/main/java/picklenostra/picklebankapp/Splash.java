@@ -18,13 +18,15 @@ public class Splash extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
 
+        session = new UserSessionManager(getApplicationContext());
+
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
                 Intent intent;
 
                 if (session.checkLogin()) {
-                    intent = new Intent(Splash.this, LoginActivity.class);
+                    intent = new Intent(Splash.this, ProfileActivity.class);
                 } else {
                     intent = new Intent(Splash.this, LoginActivity.class);
                     intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
