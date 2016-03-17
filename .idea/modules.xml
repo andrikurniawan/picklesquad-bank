@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Pickle-Bank.iml" filepath="$PROJECT_DIR$/Pickle-Bank.iml" />
-      <module fileurl="file://$PROJECT_DIR$/PickleBankApp.iml" filepath="$PROJECT_DIR$/PickleBankApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tset.iml" filepath="$PROJECT_DIR$/tset.iml" />
     </modules>
   </component>
 </project>

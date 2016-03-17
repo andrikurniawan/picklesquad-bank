@@ -16,25 +16,13 @@
         android:orientation="vertical"
         android:layout_centerVertical="true">
 
-        <TextView
+        <ImageView
             android:id="@+id/splash_title"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/splash_screen_title"
-            android:textSize="40sp"
-            android:textColor="#FFFFFF"
-            android:textStyle="bold"
-            android:layout_gravity="center"/>
-
-        <TextView
-            android:id="@+id/splash_subtitle"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/splash_screen_subtitle"
-            android:textColor="@android:color/white"
-            android:textSize="20sp"
             android:layout_gravity="center"
-            android:layout_marginTop="5dp"/>
+            android:src="@drawable/brand"/>
+
 
     </LinearLayout>
 

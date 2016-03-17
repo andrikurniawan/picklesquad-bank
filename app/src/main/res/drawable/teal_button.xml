@@ -6,11 +6,12 @@
     <item android:state_pressed="true">
         <shape>
             <solid android:color="@color/primaryDark" />
+
         </shape>
     </item>
     <item android:state_pressed="false">
         <shape>
-            <solid android:color="@color/primary" />
+            <solid android:color="@color/primaryDark" />
         </shape>
     </item>
 </selector>

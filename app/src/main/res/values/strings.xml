@@ -1,4 +1,5 @@
 <resources>
+    <string name="test">Halo Pickle Developer! Kamu berhasil</string>
     <string name="app_name">Pickle</string>
     <string name="title_activity_login">Sign in</string>
     <string name="action_settings">Settings</string>

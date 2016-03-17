@@ -2,8 +2,8 @@
 <resources>
     <color name="primary">#80CBC4</color>
     <color name="primaryDark">#26A69A</color>
-    <color name="accent">#FF3D00</color>
-    <color name="accentDark">#FF6E40</color>
+    <color name="accent">#FFA000</color>
+    <color name="accentDark">#FF6F00</color>
     <color name="white">#FFFFFF</color>
     <color name="textHint">#616161</color>
 </resources>
