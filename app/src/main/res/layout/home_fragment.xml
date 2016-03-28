@@ -1,15 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
-        android:text="Home"
-        android:textAppearance="?android:attr/textAppearanceLarge"/>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
 
-</RelativeLayout>
+        <ImageView
+            android:id="@+id/placeImage"
+            android:layout_width="match_parent"
+            android:layout_height="260dp"
+            android:src="@drawable/city2"
+            android:scaleType="centerCrop"
+            android:transitionName="tImage" />
+
+
+    </FrameLayout>
+
+        <!-- <ListView
+            android:id="@+id/list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:requiresFadingEdge="vertical"/>-->
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <ImageButton
+            android:layout_margin="@dimen/activity_horizontal_margin"
+            android:layout_width="@dimen/floating_button_size"
+            android:layout_height="@dimen/floating_button_size"
+            android:src="@mipmap/ic_plus"
+            android:background="@drawable/round_button"
+            android:id="@+id/add_transaction_button"
+            android:layout_gravity="right|bottom"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"/>
+    </FrameLayout>
+
+
+
+</LinearLayout>
