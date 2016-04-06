@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Daniya/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/Daniya/picklesquad-bank/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1_83f62df9d01533d0e41224e894f5c1573672d378.jar" />
+    </item>
+    <item
+        jar="/Users/Daniya/picklesquad-bank/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/Daniya/picklesquad-bank/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1_b5d9d0e949622b3bdc848ad2bcfd75d7e70130a6.jar" />
+    </item>
+    <item
+        jar="/Users/Daniya/picklesquad-bank/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="/Users/Daniya/picklesquad-bank/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-22.2.1_14271e16342d6bc41c36b5823cb115d303998814.jar" />
+    </item>
+    <item
+        jar="/Users/Daniya/picklesquad-bank/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/Daniya/picklesquad-bank/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.2.1_a0b8683d5884fe06e7d84351c9ef0ecdb6cf5f74.jar" />
+    </item>
+    <item
+        jar="/Users/Daniya/picklesquad-bank/app/build/intermediates/exploded-aar/com.android.support/design/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1821601ddbec5ff125653097812823388700af74">
+        <dex dex="/Users/Daniya/picklesquad-bank/app/build/intermediates/pre-dexed/debug/com.android.support-design-22.2.1_bb1a0612eb07651595631703b008852bdea6b324.jar" />
+    </item>
+    <item
+        jar="/Users/Daniya/picklesquad-bank/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/Daniya/picklesquad-bank/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.1_2c2e9a18ca44b64abc2dbc2eb81f102e918f701c.jar" />
+    </item>
+
+</items>
